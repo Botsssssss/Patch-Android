@@ -4,13 +4,16 @@ HOW I APPLY PATCH FOR ANDROID USING LUCKY PATCHER
 This method requires a rooted phone
 
 Ingredients:
+
 -Magisk By @TopJohnWu
 -MT Manager
 -Lucky Patcher
 -Lsposed Framework (For Android 11+)
 -Smali Patcher By @f0mey (This Is For Applying Mock Location & Mock Provider) I Used It For My Work As An Online Driver.
 
+
 Step By Step:
+
 
 Install Magisk On Custom Recovery (Any Recovery, Including OrangeFox, Pitchblack, TeamWin)
 After Installing Magisk, Install Smali Patcher ( https://forum.xda-developers.com/t/module-smali-patcher-7-4.3680053/ ) Make Smali Patcher By @f0mey Using PC And Apply Mock Location & Mock Provider, Turn On Developer Options Your Device Enable Usb Debugging, Plug Cable Into Your PC, Wait Until Completed, Once Completed, Move Smali.zip Module To Your Device Storage. (Don't Forget to Read the Thread on Xda)
