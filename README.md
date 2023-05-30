@@ -5,7 +5,8 @@ This method requires a rooted phone
 
 Ingredients:
 
--Magisk By @TopJohnWu
+-Magisk By @topjohnwu ( https://github.com/topjohnwu/Magisk
+)
 
 -MT Manager
 
@@ -13,7 +14,7 @@ Ingredients:
 
 -Lsposed Framework (For Android 11+)
 
--Smali Patcher By @f0mey (This Is For Applying Mock Location & Mock Provider) I Used It For My Work As An Online Driver.
+-Smali Patcher Oleh @fOmey (Ini Untuk Menerpa Lokasi Mock & Penyedia Mock) Saya Menggunakannya Untuk Pekerjaan Saya Sebagai Driver Online.
 
 
 Step By Step:
