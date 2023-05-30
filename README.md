@@ -6,9 +6,13 @@ This method requires a rooted phone
 Ingredients:
 
 -Magisk By @TopJohnWu
+
 -MT Manager
+
 -Lucky Patcher
+
 -Lsposed Framework (For Android 11+)
+
 -Smali Patcher By @f0mey (This Is For Applying Mock Location & Mock Provider) I Used It For My Work As An Online Driver.
 
 
