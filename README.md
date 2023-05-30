@@ -28,7 +28,7 @@ After that, check in the Magisk> Module application, whether there is a Lucky Pa
 
 Open the MT Manager application, enter the root directory, open the /data/adb/modules folder, find the folder named Luckypatcher Copy and paste it into your storage directory.
 
-And finally delete the Lucky Patcher & Smali Patcher Module in the Magisk application.
+And finally delete the Lucky Patcher & Smali Patcher Module in the Magisk application. (Reboot After Uninstall Module)
 
 Open MT Manager again, enter the folder that you have copied and pasted named luckypatcher, enter system/framework (inside the luckyaptcher folder) select Services.jar and copy it to the system/framework root directory and paste it there. 
 
